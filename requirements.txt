@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+yagmail
+gspread
+oauth2client
